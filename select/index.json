@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Chamber Of Reflection",
+  "base_artist": "Mac DeMarco",
+  "createdAt": "2026-01-08T18:11:41.394476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chamber Of Reflection",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/01_Chamber_Of_Reflection_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chamber of Reflection",
+      "artist": "Your Anxiety Buddy",
+      "has_synced": true,
+      "path": "select/02_Chamber_of_Reflection_Your_Anxiety_Buddy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chamber Of Reflection",
+      "artist": "Mac Demarco",
+      "has_synced": true,
+      "path": "select/03_Chamber_Of_Reflection_Mac_Demarco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chamber Of Reflection",
+      "artist": "Mac DeMarco, Mac DeMarco",
+      "has_synced": true,
+      "path": "select/04_Chamber_Of_Reflection_Mac_DeMarco,_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chamber of Reflection (Live Cover)",
+      "artist": "Your Anxiety Buddy",
+      "has_synced": true,
+      "path": "select/05_Chamber_of_Reflection_(Live_Cover)_Your_Anxiety_Buddy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chamber of Reflection",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/06_Chamber_of_Reflection_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chamber Of Reflection",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/07_Chamber_Of_Reflection_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chamber of Reflection (Slowed + Reverb)",
+      "artist": "Your Anxiety Buddy",
+      "has_synced": false,
+      "path": "select/08_Chamber_of_Reflection_(Slowed_+_Reverb)_Your_Anxiety_Buddy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chamber Of Reflection",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/09_Chamber_Of_Reflection_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chamber of Reflection",
+      "artist": "Steezy Knicks",
+      "has_synced": true,
+      "path": "select/10_Chamber_of_Reflection_Steezy_Knicks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chamber Of Reflection",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/11_Chamber_Of_Reflection_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chamber Of Reflection",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/12_Chamber_Of_Reflection_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chamber Of Reflection",
+      "artist": "Mac DeMarco - Topic",
+      "has_synced": true,
+      "path": "select/13_Chamber_Of_Reflection_Mac_DeMarco_-_Topic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chamber Of Reflection",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/pl_01_Chamber_Of_Reflection_Mac_DeMarco.txt"
+    }
+  ]
+}
